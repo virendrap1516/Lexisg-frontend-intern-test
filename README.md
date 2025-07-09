@@ -66,7 +66,11 @@ Example simulated query:
 - No backend required (simulated logic only)
 - PDF popup handled using `react-pdf` or native browser tab
 
+
+
+_Made with ❤️ by [Virendra Pawar](https://github.com/virendrap1516)_
+
+Email: Virendrapawar47@gmail.com 📧
+
+
 ---
-
-
-
