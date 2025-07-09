@@ -37,9 +37,6 @@ Example simulated query:
 
 
 
-
-
-
 ## 🖥️ Tech Stack
 
 - React.js (Vite + React or CRA)
