@@ -2,6 +2,15 @@
 
 This project is a simulated frontend interface for a **Lexi-like legal assistant**. The app mimics an AI-powered legal query system that provides answers with verifiable legal citations, referencing paragraphs inside real legal documents (PDFs).
 
+### Run Locally
+
+```bash
+
+cd lexisg-frontend-intern-test
+npm install
+npm start
+
+
 
 ## 🌐 Live Demo
 
@@ -48,10 +57,3 @@ Example simulated query:
 
 ## 🛠️ Setup Instructions
 
-### Run Locally
-
-```bash
-
-cd lexisg-frontend-intern-test
-npm install
-npm start
