@@ -1,18 +1,21 @@
-# Lexisg Frontend Intern Test – Legal Assistant Interface with Citations
+# Lexisg Frontend Intern Test – Legal Assistant Interface with Citations 🚀
 
-This project is a simulated frontend interface for a **Lexi-like legal assistant**. The app mimics an AI-powered legal query system that provides answers with verifiable legal citations, referencing paragraphs inside real legal documents (PDFs).
+This project is a simulated frontend interface for a **Lexi-like legal assistant**. The app mimics an AI-powered legal query system that provides answers with verifiable legal citations, referencing paragraphs inside real legal documents (PDFs).🤩
 
-### Run Locally
+# Run Locally 💻
+## 🛠️ Setup Instructions
+cd lexisg-frontend-intern-test📂
 
-```bash
+npm install⚙️
 
-cd lexisg-frontend-intern-test
-npm install
-npm start
+npm start▶️
 
 
 
 ## 🌐 Live Demo
+Deployed on vercel -
+
+https://lexisg-frontend-intern-test-beige-ten.vercel.app/ 🚀
 
 
 
@@ -41,6 +44,16 @@ Example simulated query:
 ---
 
 ## 📸 Screenshot
+### Home Page 🌟
+![Home page](https://github.com/virendrap1516/Lexisg-frontend-intern-test/blob/main/src/images/Screenshot%202025-07-09%20141235.png)  
+
+### Result Page ⚡
+![result page](https://github.com/virendrap1516/Lexisg-frontend-intern-test/blob/main/src/images/Screenshot%202025-07-09%20141404.png) 
+
+### PDF page 📑
+![PDF page](https://github.com/virendrap1516/Lexisg-frontend-intern-test/blob/main/src/images/Screenshot%202025-07-09%20141443.png)  
+
+
 
 
 
@@ -55,5 +68,5 @@ Example simulated query:
 
 ---
 
-## 🛠️ Setup Instructions
+
 
