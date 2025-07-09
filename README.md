@@ -23,7 +23,6 @@ https://lexisg-frontend-intern-test-beige-ten.vercel.app/ 🚀
 ## 🚀 Features
 
 - Ask a legal question via input panel
-- Simulated AI-generated answer
 - Citation displayed below the answer
 - Clickable citation opens PDF in a popup (or new tab)
 - Simulated highlight of specific paragraph in the PDF (bonus UI)
